@@ -30,7 +30,7 @@
         ]
     },
     "code20" : {
-        "title" : "code 20-21-30-31-40-41 : Accident",
+        "title" : "Code 20-21-30-31-40-41 : Accident",
         "option" : [
             "Accident travail sans arrêt",
             "Accident travail avec arrêt",
@@ -41,7 +41,7 @@
         ]
     },
     "code98" : {
-        "title" : "Absence autorisée non rémunérée",
+        "title" : "Code 98 : Absence autorisée non rémunérée",
         "option" : [
             "Recherche PE",
             "Recherche d'un emploi",
@@ -59,7 +59,7 @@
         ]
     },
     "code99" : {
-        "title" : "Absence non autorisée non rémunérée",
+        "title" : "Code 99 : CAbsence non autorisée non rémunérée",
         "option" : []
     }
 
